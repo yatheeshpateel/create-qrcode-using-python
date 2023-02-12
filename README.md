@@ -6,11 +6,14 @@ Create a QR code generator using PYthon,this is a script to generate QR code  us
 # Prerequisites
 
 Python 3
+
 pip
 
 # Installation
 
-To install the required packages, run the following command in your terminal: pip install qrcode
+To install the required packages, run the following command in your terminal: 
+
+pip install qrcode
 
 # Result
 
