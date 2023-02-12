@@ -10,6 +10,8 @@ Installation
 To install the required packages, run the following command in your terminal: pip install qrcode
 
 #Result
+
+
 ![linkedin](https://user-images.githubusercontent.com/120399980/218312848-fdec73ef-3b44-4991-9f1c-d295d11fa466.jpg)
 
 #Contributing
